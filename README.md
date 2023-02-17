@@ -1,3 +1,3 @@
 # bulk-image-downloader
 
-Conatct: 7077011447
+Step 1: CReate a FOlder called "down"
